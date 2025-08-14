@@ -1,6 +1,6 @@
 # Malicious Girl - Stunning HD Portrait
 
-![Preview](malicious_girl.jpg)
+![Preview](normal.ico)
 
 ## Description
 Experience a breathtaking high-resolution portrait of a girl with soft lighting, rich colors, and amazing details. Perfect for wallpapers, social media, or personal collections.
